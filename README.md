@@ -4,4 +4,5 @@ Prerequisite: puppet learning vm is available in Virtualbox using Host-only adap
 Vagrant is used for creating the Centos7 system with as settings:
 - network host only with ip adress 192.168.33.50
 - it will be connected to pupput on the learning.pupet.vm.
-Puppet for provisioning the software and configuration.
+
+Puppet for provisioning the software and install the license file 'artifactory.lic'.
