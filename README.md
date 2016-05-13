@@ -8,3 +8,5 @@ Vagrant is used for creating the Centos7 system with as settings:
 - it will be connected to pupput on the learning.pupet.vm.
 
 Puppet for provisioning the software and install the license file 'artifactory.lic'.
+
+Artifactory url: http://192.168.33.50:8081.
